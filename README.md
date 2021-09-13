@@ -21,6 +21,19 @@ On the other hand, the `estimate class number with 4 methods` part has tested an
 
 For more details, please refer to the paper **Huang, Libo, Lu Gan, and Bingo Wing-Kuen Ling. "A Unified Optimization Model of Feature Extraction and Clustering for Spike Sorting." IEEE Transactions on Neural Systems and Rehabilitation Engineering 29 (2021): 750-759.** (available at [https://ieeexplore.ieee.org/abstract/document/9408665/](https://ieeexplore.ieee.org/abstract/document/9408665/)).
 
+## Citation
+```
+@article{huang2021unified,
+  title={A Unified Optimization Model of Feature Extraction and Clustering for Spike Sorting},
+  author={Huang, Libo and Gan, Lu and Ling, Bingo Wing-Kuen},
+  journal={IEEE Transactions on Neural Systems and Rehabilitation Engineering},
+  volume={29},
+  pages={750--759},
+  year={2021},
+  publisher={IEEE}
+}
+```
+
 ## Licence
 Copyright(C) 2021, Libo Huang, www.huanglibo@gmail.com
 
